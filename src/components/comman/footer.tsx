@@ -31,13 +31,13 @@ export default function Footer() {
                 </a>
               </li>
               <li>
-                <a href="#" className="transition-colors">
+                <a href="/menu" className="transition-colors">
                   Drinks
                 </a>
               </li>
               <li>
                 <a
-                  href="#"
+                  href="/menu"
                   className="hover:text-emerald-500 transition-colors"
                 >
                   Food
